@@ -1,6 +1,45 @@
 {
   "version": 1,
   "entries": {
+    "bash-defensive-patterns": {
+      "source": "github.com/wshobson/agents/plugins/shell-scripting/skills/bash-defensive-patterns",
+      "type": "github-subdir",
+      "installed_at": "2026-06-01T16:20:55.695532385+08:00",
+      "repo_url": "https://github.com/wshobson/agents.git",
+      "subdir": "plugins/shell-scripting/skills/bash-defensive-patterns",
+      "version": "0818067",
+      "tree_hash": "b2cd0fc490586e7706c28cde839108cf3a568b72",
+      "file_hashes": {
+        "SKILL.md": "sha256:741b42d1fa3167f2131a17f3e0fe891e93be4fc87aa3c19e1de5fd26d763f711",
+        "references/details.md": "sha256:3ce9ec046f260da3b349f3df1b7b3a0474adb7bf9e10175a0ea4aea7bb3bd877"
+      }
+    },
+    "bats-testing-patterns": {
+      "source": "github.com/wshobson/agents/plugins/shell-scripting/skills/bats-testing-patterns",
+      "type": "github-subdir",
+      "installed_at": "2026-06-01T16:25:02.58860892+08:00",
+      "repo_url": "https://github.com/wshobson/agents.git",
+      "subdir": "plugins/shell-scripting/skills/bats-testing-patterns",
+      "version": "0818067",
+      "tree_hash": "b6412f33829c899a7e7b9fde6ca92cabfda58ab6",
+      "file_hashes": {
+        "SKILL.md": "sha256:d7992dbf589789f1ae446161d86c1cab026b9dfc4acfed5491d552be97338e62",
+        "references/details.md": "sha256:b3a82965886d700debae915949a6eccd7768568d97c0d996d7354abb43fee4b5"
+      }
+    },
+    "shellcheck-configuration": {
+      "source": "github.com/wshobson/agents/plugins/shell-scripting/skills/shellcheck-configuration",
+      "type": "github-subdir",
+      "installed_at": "2026-06-01T16:25:21.999500184+08:00",
+      "repo_url": "https://github.com/wshobson/agents.git",
+      "subdir": "plugins/shell-scripting/skills/shellcheck-configuration",
+      "version": "0818067",
+      "tree_hash": "5486453d5bc7918c657f793aa934189fec1e4299",
+      "file_hashes": {
+        "SKILL.md": "sha256:0442d7cb63b35ac5eccb60450822b66bf036381d476f5aed7a148aa635c5c598",
+        "references/details.md": "sha256:65ba7c3e5ac0132e1fa4f75fe9776a68cb3c14b60d2b504f63e3ffad781e5723"
+      }
+    },
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
