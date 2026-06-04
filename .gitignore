@@ -137,3 +137,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# BEGIN SKILLSHARE MANAGED - DO NOT EDIT
+_headless-ghidra/
+# END SKILLSHARE MANAGED
