@@ -1995,10 +1995,10 @@
     "bash-defensive-patterns": {
       "source": "https://github.com/wshobson/agents.git/plugins/shell-scripting/skills/bash-defensive-patterns",
       "type": "github-subdir",
-      "installed_at": "2026-06-04T12:00:02.142442842+08:00",
+      "installed_at": "2026-06-09T09:13:59.608120334+08:00",
       "repo_url": "https://github.com/wshobson/agents.git",
       "subdir": "plugins/shell-scripting/skills/bash-defensive-patterns",
-      "version": "767d969",
+      "version": "cf6059d",
       "tree_hash": "b2cd0fc490586e7706c28cde839108cf3a568b72",
       "file_hashes": {
         "SKILL.md": "sha256:741b42d1fa3167f2131a17f3e0fe891e93be4fc87aa3c19e1de5fd26d763f711",
@@ -2008,10 +2008,10 @@
     "bats-testing-patterns": {
       "source": "https://github.com/wshobson/agents.git/plugins/shell-scripting/skills/bats-testing-patterns",
       "type": "github-subdir",
-      "installed_at": "2026-06-04T12:00:04.948611263+08:00",
+      "installed_at": "2026-06-09T09:14:02.418195969+08:00",
       "repo_url": "https://github.com/wshobson/agents.git",
       "subdir": "plugins/shell-scripting/skills/bats-testing-patterns",
-      "version": "767d969",
+      "version": "cf6059d",
       "tree_hash": "b6412f33829c899a7e7b9fde6ca92cabfda58ab6",
       "file_hashes": {
         "SKILL.md": "sha256:d7992dbf589789f1ae446161d86c1cab026b9dfc4acfed5491d552be97338e62",
@@ -2021,10 +2021,10 @@
     "chrome-devtools-cli": {
       "source": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git/skills/chrome-devtools-cli",
       "type": "github-subdir",
-      "installed_at": "2026-06-04T12:00:07.552368715+08:00",
+      "installed_at": "2026-06-09T09:14:05.373933202+08:00",
       "repo_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
       "subdir": "skills/chrome-devtools-cli",
-      "version": "8971890",
+      "version": "702d373",
       "tree_hash": "1d333eff605093c8f3e507d4ad0cd0d30be25c57",
       "file_hashes": {
         "SKILL.md": "sha256:7382e3581eebfce8ccdb1f2f08e725e02f389fb0cc4ac5173dac8ca8272c6b3f",
@@ -2034,10 +2034,10 @@
     "shellcheck-configuration": {
       "source": "https://github.com/wshobson/agents.git/plugins/shell-scripting/skills/shellcheck-configuration",
       "type": "github-subdir",
-      "installed_at": "2026-06-04T12:00:10.093237907+08:00",
+      "installed_at": "2026-06-09T09:14:07.992435899+08:00",
       "repo_url": "https://github.com/wshobson/agents.git",
       "subdir": "plugins/shell-scripting/skills/shellcheck-configuration",
-      "version": "767d969",
+      "version": "cf6059d",
       "tree_hash": "5486453d5bc7918c657f793aa934189fec1e4299",
       "file_hashes": {
         "SKILL.md": "sha256:0442d7cb63b35ac5eccb60450822b66bf036381d476f5aed7a148aa635c5c598",
@@ -2047,13 +2047,13 @@
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
-      "installed_at": "2026-06-04T12:00:12.863183949+08:00",
+      "installed_at": "2026-06-09T09:14:10.913411065+08:00",
       "repo_url": "https://github.com/runkids/skillshare.git",
       "subdir": "skills/skillshare",
-      "version": "e81b042",
-      "tree_hash": "6cf85cc367fd6fe10de56a80ba81069163fb2d8e",
+      "version": "26ca9f0",
+      "tree_hash": "eafd9fb5846fb5ebe36c625e1131bdd28814a492",
       "file_hashes": {
-        "SKILL.md": "sha256:379e2a2bb8ee0cf2e723d86ea82b1c2e4cb6cb10045898912751bc66df627436",
+        "SKILL.md": "sha256:ad494bfd847b0882076afeb1e2e0f2db5b35637583aea3047f249e3a8dce7543",
         "references/TROUBLESHOOTING.md": "sha256:14855dbd2f20ad7042941959f257c79f768d103e89e55d74d8c3b3d38f9ff5ee",
         "references/audit.md": "sha256:85a31c32f17f39ce2baa5189a8004c6adec506e5fcf7d20378caa103b015fd5d",
         "references/backup.md": "sha256:96e2e8d5e2d7cfb8765c2eebb4e6d733b79258de8b3d974fca8972557f7326a6",
